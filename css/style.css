@@ -98,7 +98,7 @@ header img{
     border-radius: 40px;
 }
 #item-1 .top::before{
-    background: url('/img/catering.jpg') no-repeat;
+    background: url('/img/catering.JPG') no-repeat;
     content: "";
     position: absolute;
     top:0px;
@@ -110,7 +110,7 @@ header img{
     width:100%;
 } 
 #item-2 .top::before{
-    background: url('/img/bulkorder.jpg') no-repeat;
+    background: url('/img/bulkorder.JPG') no-repeat;
     content: "";
     position: absolute;
     top:0px;
@@ -122,7 +122,7 @@ header img{
     background-size: cover;
 } 
 #item-3 .top::before{
-    background: url('/img/foodorder.png') no-repeat;
+    background: url('/img/foodorder.PNG') no-repeat;
     content: "";
     position: absolute;
     top:0px;
