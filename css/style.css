@@ -11,6 +11,7 @@ html, body {
     padding: 0px;
     overflow-x:hidden;
     scroll-behavior: smooth;
+    background-color: rgba(160, 156, 156, 0.2);
 }
 
 header::before{
@@ -80,7 +81,6 @@ header img{
 .services1{
     display: flex;
     flex-direction: column;
-    background-color: rgba(160, 156, 156, 0.3);
     height: 400px;
     padding:20px;
 }
@@ -155,7 +155,8 @@ header img{
 }
 .clients{
     height: 100%;
-    margin:2rem;
+    padding:2rem;
+    background-color: rgb(255, 255, 255);
 }
 .clients h2,p{
     text-align: center;
@@ -179,7 +180,6 @@ header img{
 }
 .contact{
     display: flex;
-    background-color: rgba(160, 156, 156, 0.3);
     height: 24rem;
     width:100%;
 }
@@ -230,6 +230,7 @@ footer{
     display: flex;
     align-items: center;
     padding-top:100px;
+    background-color: rgb(255, 255, 255);
 }
 @media (max-width:1150px) and (min-width:800px){   
     .services1{
