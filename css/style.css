@@ -10,6 +10,7 @@ html, body {
     margin: 0px;
     padding: 0px;
     overflow-x:hidden;
+    scroll-behavior: smooth;
 }
 
 header::before{
@@ -288,17 +289,24 @@ footer{
         padding-bottom: 55px;
     }
     header li{
-        padding: 0%;
+        padding: 5px;
+    }
+    header ul{
+        padding:14px;
     }
     a:link{
-        padding: 0px 0px 0px 12px;
+        font-size: 19px;
+        padding: 3px;
     }
     .nav h1 {
-        font-size: 1em;
+        font-size: 27px;
     }
     .nav p {
         width: 95%;
         font-size: 17px;
+    }
+    .nav button {
+        padding: 10px 30px 10px 30px;
     }
     .sitem {
         margin: 13%;
