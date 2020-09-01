@@ -195,6 +195,7 @@ header img{
 .get-in-touch li{
     display: block;
     padding:20px 0px 20px 0px;
+    font-family: 'Satisfy', cursive;
 }
 
 .say-something{
@@ -333,7 +334,7 @@ footer{
             flex-basis: 45%;
     }
     .get-in-touch li {
-        padding: 0px 0px 20px 0px;
+        padding: 11px 0px 6px 0px;
     }
     .say-something form{
         display: flex;
