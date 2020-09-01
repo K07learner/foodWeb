@@ -98,7 +98,7 @@ header img{
     border-radius: 40px;
 }
 #item-1 .top::before{
-    background: url('/img/catering.JPG') no-repeat;
+    background: url('img/catering.JPG') no-repeat;
     content: "";
     position: absolute;
     top:0px;
@@ -110,7 +110,7 @@ header img{
     width:100%;
 } 
 #item-2 .top::before{
-    background: url('./img/bulkorder.jpg') no-repeat;
+    background: url('img/bulkorder.jpg') no-repeat;
     content: "";
     position: absolute;
     top:0px;
